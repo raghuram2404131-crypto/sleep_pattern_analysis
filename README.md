@@ -16,7 +16,7 @@ The data used in this analysis is a merged dataset from the National Health and 
 
 *   **Alcohol Consumption:**
     *   `ALQ111`: Ever had a drink of any kind of alcohol.
-    *   `ALQ130`: Average number of drinks on a day when drinking.
+    *   `ALQ130`: Average number of drinks per day - Past 12 months.
 
 *   **Smoking Status:**
     *   `SMQ020`: Smoked at least 100 cigarettes in life.
