@@ -65,4 +65,4 @@ The use of NHANES data is subject to the following policy:
 
 
 
-For more information, please refer to the official [NHANES website](https://www.cdc.gov/nchs/nhanes/index.htm).
+For more information, please refer to the official [NHANES website](https://www.cdc.gov/nchs/policy/data-user-agreement.html).
